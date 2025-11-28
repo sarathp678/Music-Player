@@ -2,8 +2,7 @@
 ## Technologies used
 - HTML
 
-
-[Project live @](https://www.google.com)
+[live @](https://sarathp678.github.io/Music-Player/)
 
 
 ![image](./ss.png)
